@@ -6,14 +6,10 @@ public class Lab1 {
 		// TODO Auto-generated method stub
 		
 		// 1.1 Variable Declaration
-		byte b = 67;
-		short s = 32;
-		int i = 2;
-		long l = 567;
-		float f = 826;
-		double d = 875.2;
-		char c = 'C';
-		boolean bool = false;
+		/*
+		 * byte b = 67; short s = 32; int i = 2; long l = 567; float f = 826; double d =
+		 * 875.2; char c = 'C'; boolean bool = false;
+		 */
 		
 		/*
 		 * // 1.2 Incompatible Assignments int g = 'e'; long w = 2.78; boolean y = 90;
